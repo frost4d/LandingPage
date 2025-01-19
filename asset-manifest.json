@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/LandingPage/static/css/main.c43325d8.css",
+    "main.js": "/LandingPage/static/js/main.6ba1346f.js",
+    "static/media/marketMoving.gif": "/LandingPage/static/media/marketMoving.7e6fea2522bce0959975.gif",
+    "static/media/question.gif": "/LandingPage/static/media/question.9fd84f74654b77b101d0.gif",
+    "static/media/shoppingMoving.gif": "/LandingPage/static/media/shoppingMoving.07e7a0194098d8f7c8ca.gif",
+    "static/media/fish swimming(1).png": "/LandingPage/static/media/fish swimming(1).942d69917a47113fda51.png",
+    "static/media/discoverMoving.gif": "/LandingPage/static/media/discoverMoving.b95b7fac92a8c592d09e.gif",
+    "index.html": "/LandingPage/index.html",
+    "main.c43325d8.css.map": "/LandingPage/static/css/main.c43325d8.css.map",
+    "main.6ba1346f.js.map": "/LandingPage/static/js/main.6ba1346f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c43325d8.css",
+    "static/js/main.6ba1346f.js"
+  ]
+}
